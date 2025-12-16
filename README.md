@@ -44,5 +44,5 @@ I’m an **AI & Cybersecurity student in the UK** building practical, real-world
 ---
 
 ## 📫 Contact
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/pierreemmanuelgerard/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email: ankouanepierre@gmail.com
